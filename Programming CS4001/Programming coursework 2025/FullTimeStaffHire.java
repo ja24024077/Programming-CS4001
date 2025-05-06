@@ -2,8 +2,8 @@
 /**
  * Write a description of class FullTimeStaffHire here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (IFTIKHAR ALI OMER)
+ * @version (06/05/2025)
  */
 public class FullTimeStaffHire extends StaffHire
 {
